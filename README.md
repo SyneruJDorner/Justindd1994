@@ -48,6 +48,7 @@
 ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/JusticeV18)
 [![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)](https://ubisoftconnect.com/en-GB/profile/JusticeV18.)
+[![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/en-za/profile?gamertag=JusticeV1994)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/nl81b6h1865951wsgf0ccgc2t)
 
 # Have an amazing day, do not forget to keep trying your hardest <3
