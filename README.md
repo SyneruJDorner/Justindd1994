@@ -1,7 +1,7 @@
 # Greetings :3
 <h3>I'm Justin. I love spending time developing, researching & conceptualizing code.</h3>
-<h4>I am an automation developer at Standard Bank SA.</h4>
-<h2>My general hobbies are game dev and graphical development.</h2>
+<h3>I am an automation developer at Standard Bank SA.</h3>
+<h3>My general hobbies are game dev and graphical development.</h3>
 
 <p width="100%" align="center">
 <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=justindd1994&theme=tokyonight" />
