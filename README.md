@@ -4,11 +4,11 @@
 <h3>My general hobbies are game dev and graphical development.</h3>
 
 <p width="100%" align="center">
-<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=justindd1994&theme=tokyonight" />
+<img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=justindd1994&theme=dracula" />
 	
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=justindd1994&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=justindd1994&show_icons=true&theme=dracula" />
 </p>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=justindd1994&theme=react-dark" />
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=justindd1994&theme=rogue" />
 
 # Who am I:
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/justindd1994)
