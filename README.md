@@ -1,6 +1,6 @@
 # Greetings :3
 <h3>I'm Justin. I love spending time developing, researching & conceptualizing code.</h3>
-<h3>I am an automation developer at Standard Bank SA.</h3>
+<h3>I am an analyst and automation developer at Standard Bank SA.</h3>
 <h3>My general hobbies are game dev and graphical development.</h3>
 
 <br/>
