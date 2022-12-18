@@ -4,8 +4,6 @@
 <h3>My general hobbies are game dev and graphical development.</h3>
 
 <br/>
-<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=justindd1994&theme=rogue" />
-
 <p width="100%" align="center" class="grid-container">
 <img width="48%" src="http://github-readme-streak-stats.herokuapp.com?user=justindd1994&theme=dracula" />	
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=justindd1994&show_icons=true&theme=dracula" />
